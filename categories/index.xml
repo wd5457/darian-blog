@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Darian&#39;s Blog</title>
-    <link>https://dastat.site/categories/</link>
+    <link>https://darianwang.me/categories/</link>
     <description>Recent content in Categories on Darian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dastat.site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darianwang.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://dastat.site/categories/development/</link>
+      <link>https://darianwang.me/categories/development/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dastat.site/categories/development/</guid>
+      <guid>https://darianwang.me/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://dastat.site/categories/test/</link>
+      <link>https://darianwang.me/categories/test/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dastat.site/categories/test/</guid>
+      <guid>https://darianwang.me/categories/test/</guid>
       <description></description>
     </item>
     

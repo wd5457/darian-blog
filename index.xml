@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darian&#39;s Blog</title>
-    <link>https://dastat.site/</link>
+    <link>https://darianwang.me/</link>
     <description>Recent content on Darian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dastat.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darianwang.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://dastat.site/about/</link>
+      <link>https://darianwang.me/about/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dastat.site/about/</guid>
+      <guid>https://darianwang.me/about/</guid>
       <description>Darian Wang (王达) # I am a PhD student at Center for Statistical Sciences, Tsinghua University.</description>
     </item>
     
     <item>
       <title>第一篇测试</title>
-      <link>https://dastat.site/posts/first_post/</link>
+      <link>https://darianwang.me/posts/first_post/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dastat.site/posts/first_post/</guid>
+      <guid>https://darianwang.me/posts/first_post/</guid>
       <description>测试summary</description>
     </item>
     
