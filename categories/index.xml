@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Darian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darianwang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 17:13:34 +0800</lastBuildDate><atom:link href="https://darianwang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab Meetings</title>
+      <link>https://darianwang.me/categories/lab-meetings/</link>
+      <pubDate>Thu, 01 Jun 2023 17:13:34 +0800</pubDate>
+      
+      <guid>https://darianwang.me/categories/lab-meetings/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Development</title>
       <link>https://darianwang.me/categories/development/</link>
